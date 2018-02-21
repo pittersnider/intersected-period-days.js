@@ -1,0 +1,28 @@
+{
+  "name": "intersected-period-days",
+  "version": "1.0.0",
+  "description": "Calculate unique days between a array of periods, ignoring intersections, through Stack method.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wernovox/intersected-period-days.js.git"
+  },
+  "keywords": [
+    "date-interval",
+    "date-range",
+    "date-calculator",
+    "date-diff"
+  ],
+  "author": "João Pedro Viana <snider@degiant.com.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wernovox/intersected-period-days.js/issues"
+  },
+  "homepage": "https://github.com/wernovox/intersected-period-days.js#readme",
+  "dependencies": {
+    "moment": "^2.20.1"
+  }
+}
