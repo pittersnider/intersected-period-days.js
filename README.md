@@ -1,2 +1,2 @@
-# date-ranger.js
-Parse over a group of dates and returns unique ranges, removing intersections.
+# intersected-period-days
+Calculate unique days between a array of periods, ignoring intersections, through Stack method.
